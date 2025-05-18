@@ -5,7 +5,7 @@
 
 - 👯 Previously **interned as a data scientist**
 
-- 🌱 I’m currently learning **ios development using Swift**
+- 🌱 Currently learning **ios development using Swift**
 
 - 📫 How to reach me **ismail.iraz@mail.utoronto.ca**
 
