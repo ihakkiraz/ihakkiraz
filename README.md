@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ismail.iraz@mail.utoronto.ca**
 
-[![Ismail's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihakkiraz)](https://github.com/anuraghazra/github-readme-stats)
+![Ismail's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihakkiraz&show icons=true&theme=radical)(https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
