@@ -8,8 +8,10 @@
 
 ## Life Updates
 
--  Most recently, I worked at [Mobven](https://mobven.com/) as iOS developer, tune in for our latest app!
+<code><img src="https://mobven.com/wp-content/uploads/2020/06/mobvenlogo.png" width="220" height="120"></code></br>
+-  Most recently, I worked at [Mobven](https://mobven.com/) as an iOS developer, tune in for our latest app!
 
+<code><img src="https://imgs.search.brave.com/4zhqk5DVrxZqUlDfxRZXEAFj4ma_voZz0TMc2cMa-1E/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzQ1LzMvZG9waW5n/LXRlY2hub2xvZ3kt/bG9nby1wbmdfc2Vl/a2xvZ28tNDUxODM5/LnBuZw" alt="" width="150" height="150"></code></br>
 -  I previously **interned as a data scientist** at [Doping Tech](https://dopingtech.net/), working on **data modelling** and **hyperparameter optimization**
 
 ## Miscellaneous
@@ -35,21 +37,21 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihakkiraz&hi
 ## Language and Tools
 
 <p align="left"> 
-  <!-- C -->
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
+  <!-- Swift -->
+  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
+  </a>
   <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
+  <!-- C -->
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  </a> 
   <!-- Java -->
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a>
-  <!-- Swift -->
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
   </a>
   <!-- Xcode -->
   <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"> 
