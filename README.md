@@ -39,10 +39,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihakkiraz&hi
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
   </a>
-  <!-- SwiftUI -->
-  <a href="https://developer.apple.com/xcode/swiftui/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swiftui" width="40" height="40"/> 
-  </a>
   <!-- Xcode -->
   <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"> 
     <img src="https://developer.apple.com/assets/elements/icons/xcode/xcode-128x128.png" alt="xcode" width="40" height="40"/> 
@@ -50,10 +46,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihakkiraz&hi
   <!-- R -->
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> 
-  </a>
-  <!-- RStudio -->
-  <a href="https://posit.co/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/rstudio.png" alt="rstudio" width="40" height="40"/> 
   </a>
   <!-- PyTorch -->
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
@@ -70,14 +62,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihakkiraz&hi
   <!-- Pandas -->
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a>
-  <!-- LaTeX -->
-  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/> 
-  </a>
-  <!-- SQL -->
-  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/255832/sql.svg" alt="sql" width="40" height="40"/> 
   </a>
   <!-- PostgreSQL -->
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
