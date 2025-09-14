@@ -10,7 +10,7 @@
 
 -  Most recently, I worked at [Mobven](https://mobven.com/) as iOS developer, tune in for our latest app!
 
--  I previously **interned as a data scientist** at Doping Tech, working on **data modelling** and **hyperparameter optimization**
+-  I previously **interned as a data scientist** at [Doping Tech](https://dopingtech.net/), working on **data modelling** and **hyperparameter optimization**
 
 ## Connect with me!
 
