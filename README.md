@@ -12,6 +12,9 @@
 
 -  I previously **interned as a data scientist** at [Doping Tech](https://dopingtech.net/), working on **data modelling** and **hyperparameter optimization**
 
+## Miscellaneous
+- As a volunteer, I worked on latest global AI and ML updates with Professor Joseph Jay Williams at Intelligent Adaptive Interventions Lab.
+
 ## Connect with me!
 
 You can reach out to me at **ismail.iraz@mail.utoronto.ca**
