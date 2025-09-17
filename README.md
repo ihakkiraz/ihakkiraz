@@ -28,10 +28,10 @@ You can reach out to me at **ismail.iraz@mail.utoronto.ca**
 ## GitHub Stats
 
 <a href="https://github.com/ihakkiraz/ihakkiraz"> <img align="center"
-src="https://github-readme-stats.vercel.app/api?username=ihakkiraz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
+src="github-readme-stats-lovat-six-54.vercel.app/api?username=ihakkiraz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
 alt="Ismail's GitHub Stats" /> </a> 
 <a href="https://github.com/ihakkiraz/ihakkiraz"> <img align="center"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihakkiraz&hide=html,javascript&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3"/></a>
+src="github-readme-stats-lovat-six-54.vercel.app/api/top-langs/?username=ihakkiraz&hide=html,javascript&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3"/></a>
 
 ## Language and Tools
 
