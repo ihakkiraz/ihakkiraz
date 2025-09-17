@@ -29,10 +29,10 @@ You can reach out to me at **ismail.iraz@mail.utoronto.ca**
 
 <a href="https://github.com/ihakkiraz/ihakkiraz"> <img align="center"
 src="https://github-readme-stats.vercel.app/api?username=ihakkiraz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
-alt="Utku's GitHub Stats" /> </a> <a
-href="https://github.com/ihakkiraz/ihakkiraz"> <img align="center"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihakkiraz&hide=html,javascript&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3"
-/> </a>
+alt="Utku's GitHub Stats" /> </a> 
+<a href="https://github.com/ihakkiraz/ihakkiraz"> <img align="center"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihakkiraz&hide=html,javascript&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3"/></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ihakkiraz" alt="GitHub Streak" /></a>
 
 ## Language and Tools
 
