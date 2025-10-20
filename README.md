@@ -27,10 +27,8 @@ You can reach out to me at **ismail.iraz@mail.utoronto.ca**
 
 ## GitHub Stats
 
-<div align="left">
-  <img src="https://github-readme-stats-lovat-six-54.vercel.app/api?username=ihakkiraz&show_icons=true&theme=tokyonight" alt="Ismail's GitHub stats" height="180" style="margin-right: 50px;"/>
-  <img src="https://github-readme-stats-lovat-six-54.vercel.app/api/top-langs/?username=ihakkiraz&show_icons=true&theme=tokyonight" alt="Top Langs" height="180"/>
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihakkiraz)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Language and Tools
 
