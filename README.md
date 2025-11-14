@@ -9,7 +9,7 @@
 ## Life Updates
 
 <code><img src="https://mobven.com/wp-content/uploads/2020/06/mobvenlogo.png" width="220" height="120"></code></br>
--  Most recently, I worked at [Mobven](https://mobven.com/) as an iOS developer, tune in for our latest app!
+-  Most recently, I worked at [Mobven](https://mobven.com/) as an iOS developer, check out our latest app, [Bondly](https://apps.apple.com/ca/app/ai-relationship-coach-bondly/id6748681826)!
 
 <code><img src="https://imgs.search.brave.com/4zhqk5DVrxZqUlDfxRZXEAFj4ma_voZz0TMc2cMa-1E/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzQ1LzMvZG9waW5n/LXRlY2hub2xvZ3kt/bG9nby1wbmdfc2Vl/a2xvZ28tNDUxODM5/LnBuZw" alt="" width="150" height="150"></code></br>
 -  I previously **interned as a data scientist** at [Doping Tech](https://dopingtech.net/), working on **data modelling** and **hyperparameter optimization**
